@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'avenir bold';
+    src: url('../fonts/Avenir/AvenirNextLTProBold.woff2') format('woff2'),
+        url('../fonts/Avenir/AvenirNextLTProBold.woff') format('woff'),
+        url('../fonts/Avenir/AvenirNextLTProBold.svg#AvenirNextLTProBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'avenir roman';
+    src: url('../fonts/Avenir/AvenirLTStd-Roman.woff2') format('woff2'),
+        url('../fonts/Avenir/AvenirLTStd-Roman.woff') format('woff'),
+        url('../fonts/Avenir/AvenirLTStd-Roman.svg#AvenirLTStd-Roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'avenir book';
+    src: url('../fonts/Avenir/AvenirLTStd-Book.woff2') format('woff2'),
+        url('../fonts/Avenir/AvenirLTStd-Book.woff') format('woff'),
+        url('../fonts/Avenir/AvenirLTStd-Book.svg#AvenirLTStd-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'avenir normal';
+    src: url('../fonts/Avenir/AvenirLTStd-Medium.woff2') format('woff2'),
+        url('../fonts/Avenir/AvenirLTStd-Medium.woff') format('woff'),
+        url('../fonts/Avenir/AvenirLTStd-Medium.svg#AvenirLTStd-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dispenceregular';
+    src: url('../fonts/Dispence/dispence-webfont.woff2') format('woff2'),
+         url('../fonts/Dispence/dispence-webfont.woff') format('woff'),
+         url('../fonts/Dispence/dispence-webfont.svg#dispenceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nebulariregular';
+    src: url('../fonts/Nebulari/nebulari-webfont.woff2') format('woff2'),
+         url('../fonts/Nebulari/nebulari-webfont.woff') format('woff'),
+         url('../fonts/Nebulari/nebulari-webfont.svg#nebulariregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'aliens_and_cowsregular';
+    src: url('../fonts/AliensAndCows/aliens_and_cows_trial-webfont.woff2') format('woff2'),
+         url('../fonts/AliensAndCows/aliens_and_cows_trial-webfont.woff') format('woff'),
+         url('../fonts/AliensAndCows/aliens_and_cows_trial-webfont.svg#aliens_and_cowsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('../fonts/BebasNeue/bebasneue-regular-webfont.woff2') format('woff2'),
+         url('../fonts/BebasNeue/bebasneue-regular-webfont.woff') format('woff'),
+         url('../fonts/BebasNeue/bebasneue-regular-webfont.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'quantifyregular';
+    src: url('../fonts/Quantify/quantify-webfont.woff2') format('woff2'),
+         url('../fonts/Quantify/quantify-webfont.woff') format('woff'),
+         url('../fonts/Quantify/quantify-webfont.svg#quantifyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'simplificasimplifica';
+    src: url('../fonts/simplifica_typeface-webfont.woff2') format('woff2'),
+         url('../fonts/simplifica_typeface-webfont.woff') format('woff'),
+         url('../fonts/simplifica_typeface-webfont.svg#simplificasimplifica') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'arenqregular';
+    src: url('../fonts/arenq-webfont.woff2') format('woff2'),
+         url('../fonts/arenq-webfont.woff') format('woff'),
+         url('../fonts/arenq-webfont.svg#arenqregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'horizonregular';
+    src: url('../fonts/horizon-webfont.woff2') format('woff2'),
+         url('../fonts/horizon-webfont.woff') format('woff'),
+         url('../fonts/horizon-webfont.svg#horizonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nexa_lightregular';
+    src: url('../fonts/nexa_light-webfont.woff2') format('woff2'),
+         url('../fonts/nexa_light-webfont.woff') format('woff'),
+         url('../fonts/nexa_light-webfont.svg#nexa_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
